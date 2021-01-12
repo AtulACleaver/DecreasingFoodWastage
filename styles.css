@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(22,19,21,0.73);
+}
+#content{
+    margin-top: 50px;
+    font-size: medium;
+}
+#myDIV {
+    display: none;
+}
+
+.h1{
+    text-align: center;
+    margin-top: 20px;
+}
